@@ -26,8 +26,5 @@
     <ClCompile Include="..\..\NumMech\NumMech\TestMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\NumMech\NumMech\Vector.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
